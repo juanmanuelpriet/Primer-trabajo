@@ -56,10 +56,6 @@
       color: hsl(158, 36%, 37%);
     }
 
-    .product-subtitle {
-      font-size: 14px;
-      color: hsl(228, 12%, 48%);
-    }
 
     .product-name {
       font-family: 'Fraunces', sans-serif;
@@ -140,7 +136,6 @@
     <div class="product-details">
       <div class="product-header">
         <div class="product-title">PERFUME</div>
-        <div class="product-subtitle">Product Preview Card</div>
       </div>
       <div class="product-name">Nombre del Perfume</div>
       <div class="product-description">Descripción del perfume.</div>
